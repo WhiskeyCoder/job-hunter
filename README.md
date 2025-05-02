@@ -40,13 +40,13 @@ Step 2: Run the job filter
 This filters jobs using your resume and saves results to filtered_jobs.csv.
 
 ## 🧬 Customization
-- Resume (Prompt): Edit the MY_RESUME string in job_filter_ai.py to match your background.
+- Resume (Prompt): Edit the CANDIDATE_RESUME string in job_filter_ai.py to match your background.
 - Keywords & Sites: Update SEARCH_TERMS, LOCATIONS, and SITE_NAMES in job-search.py.
 - Model: Replace the model name/API URL with your preferred LLM endpoint (local or hosted).
 
 
 ## 🧠 Why This Is Cool
-- ✅ Runs 100% locally (no OpenAI costs!)
+- ✅ AI Runs 100% locally (privacy-safe, no API costs)
 - ✅ Real-world use of LLMs in job hunting
 - ✅ Tailored to for your needs
 - ✅ Easy to modify for any career path
