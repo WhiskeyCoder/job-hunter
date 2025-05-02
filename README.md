@@ -48,7 +48,7 @@ This filters jobs using your resume and saves results to filtered_jobs.csv.
 ## 🧠 Why This Is Cool
 - ✅ Runs 100% locally (no OpenAI costs!)
 - ✅ Real-world use of LLMs in job hunting
-- ✅ Tailored to niche technical/intelligence roles
+- ✅ Tailored to for your needs
 - ✅ Easy to modify for any career path
 
 ## 📄 License
