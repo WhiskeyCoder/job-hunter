@@ -44,6 +44,12 @@ This filters jobs using your resume and saves results to filtered_jobs.csv.
 - Keywords & Sites: Update SEARCH_TERMS, LOCATIONS, and SITE_NAMES in job-search.py.
 - Model: Replace the model name/API URL with your preferred LLM endpoint (local or hosted).
 
+## UPDATES COMMING SOON
+- New Stack of scrapers UK specific
+- A new automation and keyword filtering system (no more LLM needs because its slow)
+- A local hosted web Dashboard for jobs with priority listings
+### Sneak Peak
+![image](https://github.com/WhiskeyCoder/job-hunter/blob/main/2025-07-17%2004_40_57-Dashboard.png)
 
 ## 🧠 Why This Is Cool
 - ✅ AI Runs 100% locally (privacy-safe, no API costs)
